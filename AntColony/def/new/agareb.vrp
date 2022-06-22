@@ -1,0 +1,19 @@
+"NAME : A-n4-k1
+COMMENT : (Augerat et al, Min no of trucks: 1, Optimal value: 949)
+TYPE : CVRP
+DIMENSION : 4
+EDGE_WEIGHT_TYPE : EUC_2D 
+CAPACITY : 40
+NODE_COORD_SECTION "    
+1 642877 3962879  
+2 644024 3966389    
+3 643554 3966930    
+4 643305 3966844    
+DEMAND_SECTION     
+2 202   
+3 177   
+4 5   
+DEPOT_SECTION     
+1    
+-1    
+EOF     

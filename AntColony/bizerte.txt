@@ -1,0 +1,13 @@
+Number of cities: 34
+Route #1: 1 3 2 6 4 32 30 20 18 21 23 25 34 9 1
+Route #2: 1 5 7 8 10 11 33 29 17 1
+Route #3: 1 28 31 15 12 13 14 1
+Route #4: 1 24 22 1
+Route #5: 1 19 27 1
+Route #6: 1 26 16 1
+
+COST: 1159359.5255883045
+
+PARAM: ALPHA=1.0 BETA=4.0 RO=0.1 | MAX_CYCLE_PARAM=1 SPEED=5 DISP_LEVEL=2
+
+Started: 2018-12-28 00:22:58, Ended: 2018-12-28 00:24:25 Duration: 87 sec

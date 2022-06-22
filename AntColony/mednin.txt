@@ -1,0 +1,10 @@
+Number of cities: 17
+Route #1: 1 2 8 11 12 13 10 17 4 6 3 7 15 16 1
+Route #2: 1 14 5 1
+Route #3: 1 9 1
+
+COST: 918646.817429865
+
+PARAM: ALPHA=1.0 BETA=4.0 RO=0.1 | MAX_CYCLE_PARAM=1 SPEED=5 DISP_LEVEL=2
+
+Started: 2018-12-27 22:59:40, Ended: 2018-12-27 22:59:57 Duration: 17 sec
